@@ -26,4 +26,3 @@ docker run --rm -p 8080:8000 git-docker-app:test
 ```
 
 Then open `http://localhost:8080`, or run `curl http://localhost:8080`.
-
